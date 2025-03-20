@@ -15,6 +15,7 @@ public class Hany {
         System.out.printf("Second Commit ");
         System.out.printf("third commit ");
         System.out.printf("First Commit in hany brnach  ");
+        System.out.printf("Second Commit in hany brnach  ");
 
 
     }
